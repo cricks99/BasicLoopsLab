@@ -1,0 +1,15 @@
+M:\GrandCircus\BasicLoopsLab\BasicLoopsLab\obj\Debug\net6.0\DoWhileLoop.csproj.AssemblyReference.cache
+M:\GrandCircus\BasicLoopsLab\BasicLoopsLab\obj\Debug\net6.0\DoWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+M:\GrandCircus\BasicLoopsLab\BasicLoopsLab\obj\Debug\net6.0\DoWhileLoop.AssemblyInfoInputs.cache
+M:\GrandCircus\BasicLoopsLab\BasicLoopsLab\obj\Debug\net6.0\DoWhileLoop.AssemblyInfo.cs
+M:\GrandCircus\BasicLoopsLab\BasicLoopsLab\obj\Debug\net6.0\DoWhileLoop.csproj.CoreCompileInputs.cache
+M:\GrandCircus\BasicLoopsLab\BasicLoopsLab\bin\Debug\net6.0\DoWhileLoop.exe
+M:\GrandCircus\BasicLoopsLab\BasicLoopsLab\bin\Debug\net6.0\DoWhileLoop.deps.json
+M:\GrandCircus\BasicLoopsLab\BasicLoopsLab\bin\Debug\net6.0\DoWhileLoop.runtimeconfig.json
+M:\GrandCircus\BasicLoopsLab\BasicLoopsLab\bin\Debug\net6.0\DoWhileLoop.dll
+M:\GrandCircus\BasicLoopsLab\BasicLoopsLab\bin\Debug\net6.0\DoWhileLoop.pdb
+M:\GrandCircus\BasicLoopsLab\BasicLoopsLab\obj\Debug\net6.0\DoWhileLoop.dll
+M:\GrandCircus\BasicLoopsLab\BasicLoopsLab\obj\Debug\net6.0\refint\DoWhileLoop.dll
+M:\GrandCircus\BasicLoopsLab\BasicLoopsLab\obj\Debug\net6.0\DoWhileLoop.pdb
+M:\GrandCircus\BasicLoopsLab\BasicLoopsLab\obj\Debug\net6.0\DoWhileLoop.genruntimeconfig.cache
+M:\GrandCircus\BasicLoopsLab\BasicLoopsLab\obj\Debug\net6.0\ref\DoWhileLoop.dll

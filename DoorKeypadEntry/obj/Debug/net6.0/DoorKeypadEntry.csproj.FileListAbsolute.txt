@@ -1,0 +1,15 @@
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\bin\Debug\net6.0\DoorKeypadEntry.exe
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\bin\Debug\net6.0\DoorKeypadEntry.deps.json
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\bin\Debug\net6.0\DoorKeypadEntry.runtimeconfig.json
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\bin\Debug\net6.0\DoorKeypadEntry.dll
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\bin\Debug\net6.0\DoorKeypadEntry.pdb
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\obj\Debug\net6.0\DoorKeypadEntry.csproj.AssemblyReference.cache
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\obj\Debug\net6.0\DoorKeypadEntry.GeneratedMSBuildEditorConfig.editorconfig
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\obj\Debug\net6.0\DoorKeypadEntry.AssemblyInfoInputs.cache
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\obj\Debug\net6.0\DoorKeypadEntry.AssemblyInfo.cs
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\obj\Debug\net6.0\DoorKeypadEntry.csproj.CoreCompileInputs.cache
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\obj\Debug\net6.0\DoorKeypadEntry.dll
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\obj\Debug\net6.0\refint\DoorKeypadEntry.dll
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\obj\Debug\net6.0\DoorKeypadEntry.pdb
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\obj\Debug\net6.0\DoorKeypadEntry.genruntimeconfig.cache
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\obj\Debug\net6.0\ref\DoorKeypadEntry.dll

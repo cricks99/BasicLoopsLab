@@ -1,0 +1,15 @@
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\bin\Debug\net6.0\3. Door Keypad Entry While Loop.exe
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\bin\Debug\net6.0\3. Door Keypad Entry While Loop.deps.json
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\bin\Debug\net6.0\3. Door Keypad Entry While Loop.runtimeconfig.json
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\bin\Debug\net6.0\3. Door Keypad Entry While Loop.dll
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\bin\Debug\net6.0\3. Door Keypad Entry While Loop.pdb
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\obj\Debug\net6.0\3. Door Keypad Entry While Loop.csproj.AssemblyReference.cache
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\obj\Debug\net6.0\3. Door Keypad Entry While Loop.GeneratedMSBuildEditorConfig.editorconfig
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\obj\Debug\net6.0\3. Door Keypad Entry While Loop.AssemblyInfoInputs.cache
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\obj\Debug\net6.0\3. Door Keypad Entry While Loop.AssemblyInfo.cs
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\obj\Debug\net6.0\3. Door Keypad Entry While Loop.csproj.CoreCompileInputs.cache
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\obj\Debug\net6.0\3. Door Keypad Entry While Loop.dll
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\obj\Debug\net6.0\refint\3. Door Keypad Entry While Loop.dll
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\obj\Debug\net6.0\3. Door Keypad Entry While Loop.pdb
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\obj\Debug\net6.0\3. Door Keypad Entry While Loop.genruntimeconfig.cache
+M:\GrandCircus\BasicLoopsLab\DoorKeypadEntry\obj\Debug\net6.0\ref\3. Door Keypad Entry While Loop.dll

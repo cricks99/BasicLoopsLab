@@ -1,0 +1,15 @@
+M:\GrandCircus\BasicLoopsLab\ForLoop\bin\Debug\net6.0\2. ForLoop.exe
+M:\GrandCircus\BasicLoopsLab\ForLoop\bin\Debug\net6.0\2. ForLoop.deps.json
+M:\GrandCircus\BasicLoopsLab\ForLoop\bin\Debug\net6.0\2. ForLoop.runtimeconfig.json
+M:\GrandCircus\BasicLoopsLab\ForLoop\bin\Debug\net6.0\2. ForLoop.dll
+M:\GrandCircus\BasicLoopsLab\ForLoop\bin\Debug\net6.0\2. ForLoop.pdb
+M:\GrandCircus\BasicLoopsLab\ForLoop\obj\Debug\net6.0\2. ForLoop.csproj.AssemblyReference.cache
+M:\GrandCircus\BasicLoopsLab\ForLoop\obj\Debug\net6.0\2. ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+M:\GrandCircus\BasicLoopsLab\ForLoop\obj\Debug\net6.0\2. ForLoop.AssemblyInfoInputs.cache
+M:\GrandCircus\BasicLoopsLab\ForLoop\obj\Debug\net6.0\2. ForLoop.AssemblyInfo.cs
+M:\GrandCircus\BasicLoopsLab\ForLoop\obj\Debug\net6.0\2. ForLoop.csproj.CoreCompileInputs.cache
+M:\GrandCircus\BasicLoopsLab\ForLoop\obj\Debug\net6.0\2. ForLoop.dll
+M:\GrandCircus\BasicLoopsLab\ForLoop\obj\Debug\net6.0\refint\2. ForLoop.dll
+M:\GrandCircus\BasicLoopsLab\ForLoop\obj\Debug\net6.0\2. ForLoop.pdb
+M:\GrandCircus\BasicLoopsLab\ForLoop\obj\Debug\net6.0\2. ForLoop.genruntimeconfig.cache
+M:\GrandCircus\BasicLoopsLab\ForLoop\obj\Debug\net6.0\ref\2. ForLoop.dll
